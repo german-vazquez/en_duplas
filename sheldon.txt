@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Es un fisico teorico
+=======
+es un fisico teórico con sindrome de asperger, grandes problemas para socializar pero aun así logró encontrar una novia con características similares.
+>>>>>>> bc74545497772528488255bcb9728cb214679624
